@@ -1,7 +1,11 @@
 # Codealpha_tasks1
+
 **NAME**:Shruti Shahaji Patil
+
 **STUDENT ID**: CA/JA1/7986
+
 **DOMAIN**: FRONTEND DEVELOPMENT
+
 DESCRIPTION:
 
 An Image Gallery is a collection of images displayed in a grid or slideshow format on a webpage. To create an Image Gallery using JavaScript, you can dynamically load images, create HTML elements, and use CSS for styling. JavaScript can add interactivity, like transitions and navigation controls.
